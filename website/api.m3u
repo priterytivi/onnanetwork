@@ -20,6 +20,10 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh VTV" tvg-logo="https://i.ibb.co/s7ktWXP/VTV7-1.png", VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/DDTR2Wny/Vie-Channel-HTV2-1.png", HTV2
+https://liveh12.seenow.vn/hls/HTV2/index.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/S4Vwh7zz/HTV3-1.png", HTV3
+https://liveh12.seenow.vn/hls/HTV3/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/fYZzV3DY/HTV7-ident-2022-no-logo.png", HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
