@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #ONNA Network Website API
-"ĐỊT MẸ BỌN SPAM COMMENT SAO ĐƠN"
+#ĐỊT MẸ BỌN SPAM COMMENT SAO ĐƠN
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh VTV" tvg-logo="https://i.ibb.co/5hBCgVwV/VTV1.png", VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
@@ -15,6 +15,5 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh VTV" tvg-logo="https://i.ibb.co/s7ktWXP/VTV7-1.png", VTV7
 https://live.fptplay53.net/epzch2/vtv7hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/s7ktWXP/VTV7-1.png", HTV2
-https:
+
 
