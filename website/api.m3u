@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #Địt con mẹ bọn spam comment sao đơn 
 
-#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", ttet
+#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", tt
 https://sb-4.restream.su/preview/20011/863fc011-78f3-44cc-a754-1e678a640de7.m3u8
