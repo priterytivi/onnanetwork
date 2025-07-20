@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 1
+https://viettel.khanggtivi.xyz/live/kubolive/index.m3u8
