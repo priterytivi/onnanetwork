@@ -31,3 +31,5 @@ https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/5d1WQqW/2025072110440668.jpg", SCTV1
 https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/h1wPBVck/hq720-5.jpg", SCTV2 - TodayTV
+https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
