@@ -41,5 +41,7 @@ https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/h1wPBVck/hq720-5.jpg", SCTV2 - TodayTV
 https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
 
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VOV1_2020.png/revision/latest?cb=20231109100518&path-prefix=vi", VOV1 Tin Tức
-http://media.kythuatvov.vn:1936/live/VOV1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Phát Thanh" tvg-logo="https://i.ibb.co/0jyvGh3y/VOV1-logo-2020.png", VOV1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w1111402987.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Phát Thanh" tvg-logo="https://i.ibb.co/SDcxcTtq/VOV2-logo-2020.png", VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w504296959.m3u8
