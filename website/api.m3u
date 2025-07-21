@@ -45,3 +45,5 @@ https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w1111402987.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Phát Thanh" tvg-logo="https://i.ibb.co/SDcxcTtq/VOV2-logo-2020.png", VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w504296959.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Phát Thanh" tvg-logo="https://i.ibb.co/jPf2pTc4/VOV3-logo-2020.png", VOV3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w1783069155.m3u8
