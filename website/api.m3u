@@ -40,3 +40,6 @@ https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
 https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/h1wPBVck/hq720-5.jpg", SCTV2 - TodayTV
 https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
+
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VOV1_2020.png/revision/latest?cb=20231109100518&path-prefix=vi", VOV1 Tin Tức
+http://media.kythuatvov.vn:1936/live/VOV1.sdp/playlist.m3u8
