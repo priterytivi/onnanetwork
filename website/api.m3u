@@ -57,6 +57,8 @@ https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 https://proxy.liyao.space/tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/WNDwTtmT/2025072414324612.jpg", An Giang 2
 https://cmcdp3.vtvdigital.vn/hls/ANGIANGTV/01.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://raw.githubusercontent.com/priterytivi/onnanetwork/refs/heads/main/2025070612544951.jpg", Đà Nẵng 1
+https://cmcdp3.vtvdigital.vn/hls/DANANGTV/01.m3u8
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Phát Thanh" tvg-logo="https://i.ibb.co/0jyvGh3y/VOV1-logo-2020.png", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w1111402987.m3u8
