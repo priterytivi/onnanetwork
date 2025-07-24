@@ -53,9 +53,9 @@ https://liveh34.seenow.vn/hls/HANOI1TV/index.m3u8
 https://liveh12.seenow.vn/hls/HANOI2TV/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/j92vrZRV/HTV2.png", Hà Nội 2 4K
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/WNDwTtmT/2025072414324612.jpg", An Giang 1
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://raw.githubusercontent.com/priterytivi/onnanetwork/refs/heads/main/angiang1.jpg", An Giang 1
 https://proxy.liyao.space/tv.angiangtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/WNDwTtmT/2025072414324612.jpg", An Giang 2
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://raw.githubusercontent.com/priterytivi/onnanetwork/refs/heads/main/angiang2.jpg", An Giang 2
 https://cmcdp3.vtvdigital.vn/hls/ANGIANGTV/01.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://raw.githubusercontent.com/priterytivi/onnanetwork/refs/heads/main/2025070612544951.jpg", Đà Nẵng 1
 https://cmcdp3.vtvdigital.vn/hls/DANANGTV/01.m3u8
