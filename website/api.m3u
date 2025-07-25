@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #ONNA Network API Website 
 #Địt mẹ mấy thằng spam comment sao đơn
+#Thằng nào view source web tao thằng đấy làm chó
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh ONNA Network" tvg-logo="https://i.ibb.co/Psrcd8jY/2025072103265551.jpg", ONi1
 https://vthanh.utako.moe/oni/index.m3u8
@@ -29,13 +30,6 @@ https://ott3.sgchill.io.vn/source/vieon/htv7/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
 https://ott3.sgchill.io.vn/source/vieon/htv9/index.m3u8
 
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/xq3cTjNS/THVL1-2025-1.png", THVL1
-https://ott3.sgchill.io.vn/source/vieon/thvl1/index.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/DfP0YVnZ/THVL2-2025-1.png", THVL2
-https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/DfP0YVnZ/THVL2-2025-1.png", THVL2 (Clone)
-https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
-
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/5d1WQqW/2025072110440668.jpg", SCTV1
 https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/h1wPBVck/hq720-5.jpg", SCTV2 - TodayTV
@@ -61,6 +55,12 @@ https://cmcdp3.vtvdigital.vn/hls/ANGIANGTV/01.m3u8
 https://cmcdp3.vtvdigital.vn/hls/DANANGTV/01.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://raw.githubusercontent.com/priterytivi/onnanetwork/refs/heads/main/2025070612555025.jpg", Đà Nẵng 2
 https://proxy.liyao.space/live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/xq3cTjNS/THVL1-2025-1.png", THVL1
+https://ott3.sgchill.io.vn/source/vieon/thvl1/index.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/DfP0YVnZ/THVL2-2025-1.png", THVL2
+https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/DfP0YVnZ/THVL2-2025-1.png", THVL2 (Clone)
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Phát Thanh" tvg-logo="https://i.ibb.co/0jyvGh3y/VOV1-logo-2020.png", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w1111402987.m3u8
