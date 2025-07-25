@@ -25,9 +25,9 @@ https://liveh12.seenow.vn/hls/HTV2/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/S4Vwh7zz/HTV3-1.png", HTV3
 https://liveh12.seenow.vn/hls/HTV3/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/fYZzV3DY/HTV7-ident-2022-no-logo.png", HTV7
-https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://ott3.sgchill.io.vn/source/vieon/htv7/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
-https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+https://ott3.sgchill.io.vn/source/vieon/htv9/index.m3u8
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/xq3cTjNS/THVL1-2025-1.png", THVL1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
