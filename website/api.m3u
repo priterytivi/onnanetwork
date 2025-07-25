@@ -28,7 +28,7 @@ https://liveh12.seenow.vn/hls/HTV3/index.m3u8
 https://ott3.sgchill.io.vn/source/vieon/htv7/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
 https://ott3.sgchill.io.vn/source/vieon/htv9/index.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/PGh6vfrr/HTV-Th-Thao.png", HTV9
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/PGh6vfrr/HTV-Th-Thao.png", HTV Thể Thao
 https://ott3.sgchill.io.vn/source/vieon/htvthethao/index.m3u8
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/5d1WQqW/2025072110440668.jpg", SCTV1
