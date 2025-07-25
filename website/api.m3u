@@ -30,7 +30,7 @@ https://ott3.sgchill.io.vn/source/vieon/htv7/index.m3u8
 https://ott3.sgchill.io.vn/source/vieon/htv9/index.m3u8
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/xq3cTjNS/THVL1-2025-1.png", THVL1
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+https://ott3.sgchill.io.vn/source/vieon/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/DfP0YVnZ/THVL2-2025-1.png", THVL2
 https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/DfP0YVnZ/THVL2-2025-1.png", THVL2 (Clone)
