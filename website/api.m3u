@@ -1,11 +1,14 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #ONNA Network API Website 
 #Địt mẹ bọn spam comment sao đơn
+#Thằng nào view-source ăn cắp link là gay
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh ONNA Network" tvg-logo="https://i.ibb.co/Psrcd8jY/2025072103265551.jpg", ONi1
 https://vthanh.utako.moe/oni/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh ONNA Network" tvg-logo="https://i.ibb.co/gMVQ4pPJ/2025072103315257.jpg", ONi5
 https://onnanetwork.xyz/MyTwitch/nnt1709/QuaTangCuocSong.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh ONNA Network" tvg-logo="https://i.ibb.co/gMVQ4pPJ/2025072103315257.jpg", MBN+
+https://onnanetwork.xyz/TwitchTV/?hoang_ho2812
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh VTV" tvg-logo="https://i.ibb.co/5hBCgVwV/VTV1.png", VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
