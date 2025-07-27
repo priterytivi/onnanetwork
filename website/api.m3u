@@ -8,7 +8,7 @@ https://vthanh.utako.moe/oni/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh ONNA Network" tvg-logo="https://i.ibb.co/gMVQ4pPJ/2025072103315257.jpg", ONi5
 https://onnanetwork.xyz/MyTwitch/nnt1709/QuaTangCuocSong.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh ONNA Network" tvg-logo="https://i.ibb.co/gMVQ4pPJ/2025072103315257.jpg", MBN+
-https://onnanetwork.xyz/TwitchTV/?hoang_ho2812
+https://onnanetwork.xyz/TwitchTV/?hoang_ho2812&index.m3u8
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh VTV" tvg-logo="https://i.ibb.co/5hBCgVwV/VTV1.png", VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
