@@ -34,19 +34,6 @@ https://ott3.sgchill.io.vn/source/vieon/htv9/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/PGh6vfrr/HTV-Th-Thao.png", HTV Thể Thao
 https://ott3.sgchill.io.vn/source/vieon/htvthethao/index.m3u8
 
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/5d1WQqW/2025072110440668.jpg", SCTV1
-https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/h1wPBVck/hq720-5.jpg", SCTV2 - TodayTV
-https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/5XG1cfP5/SCTV3-SEETV-1.png", SCTV3 - SeeTV
-https://liveh12.seenow.vn/hls/SCTV3/index.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/k2cLDCcP/sctv-42-16375507583002133600205.jpg", SCTV4
-https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg", SCTV6 - Flim 360
-https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh SCTV" tvg-logo="https://i.ibb.co/99dxhwjG/2025072612494375.jpg", SCTV4K
-https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
-
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/PvNN8cxH/HTV1.png", Hà Nội 1
 https://liveh34.seenow.vn/hls/HANOI1TV/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/j92vrZRV/HTV2.png", Hà Nội 2
