@@ -27,11 +27,9 @@ https://liveh12.seenow.vn/hls/HTV2/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/S4Vwh7zz/HTV3-1.png", HTV3
 https://liveh12.seenow.vn/hls/HTV3/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/fYZzV3DY/HTV7-ident-2022-no-logo.png", HTV7
-https://ott3.sgchill.io.vn/source/vieon/htv7/index.m3u8
+https://liveh34.seenow.vn/hls/HTV7HD/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
-https://ott3.sgchill.io.vn/source/vieon/htv9/index.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/PGh6vfrr/HTV-Th-Thao.png", HTV Thể Thao
-https://ott3.sgchill.io.vn/source/vieon/htvthethao/index.m3u8
+https://liveh34.seenow.vn/hls/HTV9HD/index.m3u8
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/PvNN8cxH/HTV1.png", Hà Nội 1
 https://liveh34.seenow.vn/hls/HANOI1TV/index.m3u8
