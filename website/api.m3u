@@ -30,6 +30,17 @@ https://liveh34.seenow.vn/hls/HTV7HD/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh HTV" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/xq3cTjNS/THVL1-2025-1.png", THVL1
+https://liveh34.seenow.vn/hls/VINHLONG1/03.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/DfP0YVnZ/THVL2-2025-1.png", THVL2
+https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/DfP0YVnZ/THVL2-2025-1.png", THVL2 (Clone)
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/SDbtCZGg/THVL3-2025.png", THVL3
+https://liveh34.seenow.vn/hls/VINHLONG3/03.m3u8
+#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh THVL" tvg-logo="https://i.ibb.co/SDD1sNry/THVL4-2025.png", THVL4
+https://liveh34.seenow.vn/hls/VINHLONG4/03.m3u8
+
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://i.ibb.co/W9mYZGj/90.jpg", ANTV
 https://ott1.nethubtv.vn/live/antv/playlist.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://i.ibb.co/svWGwbCf/94.jpg", QPVN
@@ -49,12 +60,6 @@ https://cmcdp3.vtvdigital.vn/hls/ANGIANGTV/01.m3u8
 https://cmcdp3.vtvdigital.vn/hls/DANANGTV/01.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://raw.githubusercontent.com/priterytivi/onnanetwork/refs/heads/main/2025070612555025.jpg", Đà Nẵng 2
 https://proxy.liyao.space/live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/xq3cTjNS/THVL1-2025-1.png", THVL1
-https://ott3.sgchill.io.vn/source/vieon/thvl1/index.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/DfP0YVnZ/THVL2-2025-1.png", THVL2
-https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Địa Phương" tvg-logo="https://i.ibb.co/DfP0YVnZ/THVL2-2025-1.png", THVL2 (Clone)
-https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh Phát Thanh" tvg-logo="https://i.ibb.co/0jyvGh3y/VOV1-logo-2020.png", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w1111402987.m3u8
