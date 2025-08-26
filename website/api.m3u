@@ -16,7 +16,7 @@ https://onnanetwork.xyz/TwitchTV/?hoang_ho2812&index.m3u8
 
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh VTV" tvg-logo="https://i.ibb.co/5hBCgVwV/VTV1.png", VTV1
-https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
+https://wowza.danet.vn/live/vtv1/chunklist_w1613490240.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh VTV" tvg-logo="https://i.ibb.co/fVddZDFn/VTV4.png", VTV4
 https://liveh12.seenow.vn/hls/VTV4_HD/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Nhóm Kênh VTV" tvg-logo="https://i.ibb.co/VcM7tQjh/VTV-C-n-Th.png", VTV Cần Thơ
