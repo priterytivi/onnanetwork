@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTM3U x-tvg-url="https://vnepg.site/epg.xml.gz"
 #Địt con mẹ bọn spam comment sao đơn
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/Psrcd8jY/2025072103265551.jpg", ONi1
