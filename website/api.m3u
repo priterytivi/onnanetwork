@@ -11,22 +11,22 @@ https://proxy.liyao.space/1.org.vn/oni3/?/index.m3u8
 https://server.priterytivi.com/ATVHD/index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/WNmt2WPJ/2025072720085964.jpg", MBN+
 https://onnanetwork.xyz/TwitchTV/?hoang_ho2812&index.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/5hBCgVwV/VTV1.png", VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/5hBCgVwV/VTV1.png", VTV1
 https://wowza.danet.vn/live/vtv1/chunklist_w1613490240.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/W9mYZGj/90.jpg", ANTV
+#EXTINF:-1 tvg-id="antvhd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/W9mYZGj/90.jpg", ANTV
 https://wowza.danet.vn/live/antv/chunklist_w1998701349.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/svWGwbCf/94.jpg", QPVN
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/svWGwbCf/94.jpg", QPVN
 https://wowza.danet.vn/live/quocphong/playlist.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/fYZzV3DY/HTV7-ident-2022-no-logo.png", HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/fYZzV3DY/HTV7-ident-2022-no-logo.png", HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
+#EXTINF:-1 tvg-id="htv9hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/0jyvGh3y/VOV1-logo-2020.png", VOV1
+#EXTINF:-1 tvg-id="vov1" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/0jyvGh3y/VOV1-logo-2020.png", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w1111402987.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/SDcxcTtq/VOV2-logo-2020.png", VOV2
+#EXTINF:-1 tvg-id="vov2" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/SDcxcTtq/VOV2-logo-2020.png", VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w504296959.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/jPf2pTc4/VOV3-logo-2020.png", VOV3
+#EXTINF:-1 tvg-id="vov3" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/jPf2pTc4/VOV3-logo-2020.png", VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w1783069155.m3u8
-#EXTINF:-1 tvg-id="onnanetwork" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/3YYbyGQL/VOV-Giao-th-ng-Duy-n-h-i.png", VOV Giao Thông Duyên Hải
+#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/3YYbyGQL/VOV-Giao-th-ng-Duy-n-h-i.png", VOV Giao Thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
