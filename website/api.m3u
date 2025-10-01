@@ -14,9 +14,9 @@ https://onnanetwork.xyz/TwitchTV/?hoang_ho2812&index.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/5hBCgVwV/VTV1.png", VTV1
 https://wowza.danet.vn/live/vtv1/chunklist_w1613490240.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/W9mYZGj/90.jpg", ANTV
-https://ott1.nethubtv.vn/live/antv/playlist.m3u8
+https://wowza.danet.vn/live/antv/chunklist_w1998701349.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/svWGwbCf/94.jpg", QPVN
-https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
+https://wowza.danet.vn/live/quocphong/playlist.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/fYZzV3DY/HTV7-ident-2022-no-logo.png", HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
