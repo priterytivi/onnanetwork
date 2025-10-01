@@ -18,9 +18,9 @@ https://ott1.nethubtv.vn/live/antv/playlist.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/svWGwbCf/94.jpg", QPVN
 https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/fYZzV3DY/HTV7-ident-2022-no-logo.png", HTV7
-https://liveh34.seenow.vn/hls/HTV7HD/index.m3u8
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
-https://proxy.liyao.space/sgchill.io.vn/v1/b522/htv9/index.m3u8
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="onnanetwork" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/0jyvGh3y/VOV1-logo-2020.png", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w1111402987.m3u8
