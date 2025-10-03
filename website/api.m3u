@@ -24,11 +24,11 @@ https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="Truyền Hình" tvg-logo="https://i.ibb.co/PZbxmWJL/HTV9-ident-2022-no-logo.png", HTV9
 https://tv.nknews.org/tvdash/stream.mpd
 
-#EXTINF:-1 tvg-id="vov1" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/0jyvGh3y/VOV1-logo-2020.png", VOV1
+#EXTINF:-1 tvg-id="vov1" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/xKs0wJCV/2025100307210952.jpg", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w1111402987.m3u8
-#EXTINF:-1 tvg-id="vov2" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/SDcxcTtq/VOV2-logo-2020.png", VOV2
+#EXTINF:-1 tvg-id="vov2" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/gZ6XGbMt/2025100308014841.jpg", VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w504296959.m3u8
-#EXTINF:-1 tvg-id="vov3" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/jPf2pTc4/VOV3-logo-2020.png", VOV3
+#EXTINF:-1 tvg-id="vov3" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/PzTdQ5F2/2025100308021391.jpg", VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w1783069155.m3u8
-#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/3YYbyGQL/VOV-Giao-th-ng-Duy-n-h-i.png", VOV Giao Thông Duyên Hải
+#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/psNmrtQ/2025100308023521.jpg", VOV Giao Thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
