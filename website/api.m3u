@@ -30,5 +30,11 @@ https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w1111402987.
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w504296959.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/PzTdQ5F2/2025100308021391.jpg", VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w1783069155.m3u8
+#EXTINF:-1 tvg-id="vovgthn" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/F4bq1SF3/2025100308055245.jpg", VOV Giao thông Hà Nội
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+#EXTINF:-1 tvg-id="vovgthcm" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/93pLRy9Y/2025100308061004.jpg", VOV Giao thông Hồ Chí Minh
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+#EXTINF:-1 tvg-id="vovgtmekong" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/3YGvDxBF/2025100308063676.jpg", VOV Giao Thông Mekong
+https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
 #EXTINF:-1 tvg-id="vovgtduyenhai" group-title="Phát Thanh" tvg-logo="https://i.ibb.co/psNmrtQ/2025100308023521.jpg", VOV Giao Thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
