@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+<channel id="oni1">
+    <display-name lang="vi">ONi1</display-name>
+    <icon src="https://i.ibb.co/spCgh0Tf/1735283835605.png"/>
+</channel>
+<channel id="oni3">
+    <display-name lang="vi">ONi3</display-name>
+    <icon src="https://i.ibb.co/tp1p8DbQ/1736105796820.png"/>
+</channel>
+  <programme channel="oni1" start="20251001165933 +0700" stop="20251004175127 +0700">
+    <title lang="vi">ĐỊT MẸ BỌN SPAM COMMENT SAO ĐƠN</title>
+    <desc lang="vi">Chương trình có thời lượng 51 phút</desc>
+  </programme>
+  <programme channel="oni1" start="20251001175127 +0700" stop="20251004184405 +0700">
+    <title lang="vi">ĐỊT MẸ BỌN SPAM COMMENT SAO ĐƠN</title>
+    <desc lang="vi">Chương trình có thời lượng 52 phút</desc>
+  </programme>
+  <programme channel="oni1" start="20251001184405 +0700" stop="20251004204531 +0700">
+    <title lang="vi">ĐỊT MẸ BỌN SPAM COMMENT SAO ĐƠN</title>
+    <desc lang="vi">Chương trình có thời lượng 2 giờ 1 phút</desc>
+  </programme>
+  <programme channel="oni1" start="20251001204531 +0700" stop="20251004224706 +0700">
+    <title lang="vi">ĐỊT MẸ BỌN SPAM COMMENT SAO ĐƠN</title>
+    <desc lang="vi">Tiên sư bố mấy bọn ranh con.</desc>
+  </programme>
+  <programme channel="oni1" start="20251001224706 +0700" stop="20251002003304 +0700">
+    <title lang="vi">ĐỊT MẸ BỌN SPAM COMMENT SAO ĐƠN</title>
+    <desc lang="vi">Chương trình có thời lượng 1 giờ 45 phút</desc>
+  </programme>
+</tv>
